@@ -3,6 +3,7 @@ final: Goodbye.  Thank you for talking to me.
 quit: bye
 quit: goodbye
 quit: quit
+quit: sayonara
 pre: dont don't
 pre: cant can't
 pre: wont won't
